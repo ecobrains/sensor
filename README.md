@@ -1,7 +1,7 @@
 # EcoBrains Sensor
 
 # Intro
-This repository contains the source code for a waste analysis sensor system developed by @benjamin. 
+This repository contains the source code for a waste analysis sensor system developed by [@benjamin](https://github.com/b3nj4m1no). 
 The system integrates artificial intelligence and machine learning capabilities to automate waste classification processes for enterprises.
 
 # Overview
@@ -108,7 +108,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ```
 MIT License
 
-Copyright (c) 2024 Matthew Gasparetti
+Copyright (c) 2024 EcoBrains & Co
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
