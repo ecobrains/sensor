@@ -2,6 +2,7 @@
 
 # Intro
 This repository contains the source code for a waste analysis sensor system developed by [@benjamin](https://github.com/b3nj4m1no). 
+
 The system integrates artificial intelligence and machine learning capabilities to automate waste classification processes for enterprises.
 
 # Overview
